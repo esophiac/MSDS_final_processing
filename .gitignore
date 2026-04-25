@@ -2,5 +2,5 @@
 .venv/
 
 ## ignore other stuff
-.xlsx
-.csv
+*.xlsx
+*.csv
